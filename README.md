@@ -1,5 +1,4 @@
 ## Hi 👋<a href="https://github.com/HdShare/"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
-
 <table align="center">
     <tr>
         <td align="center">
@@ -15,6 +14,7 @@
     </tr>
 </table>
 
+## Pin
 <table align="center">
     <tr>
         <td align="center">
@@ -30,6 +30,7 @@
     </tr>
 </table>
 
+## Skill
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,idea,pycharm,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,idea,pycharm,vscode&theme=light" />
 </p>
