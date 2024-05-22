@@ -19,12 +19,12 @@
     <tr>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=cinit&repo=QAuxiliary&show_owner=true">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=HdShare&repo=HdTool&show_owner=true">
           </picture>
         </td>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=HdShare&repo=HdTool&show_owner=true">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=cinit&repo=QAuxiliary&show_owner=true">
           </picture>
         </td>
     </tr>
