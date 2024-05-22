@@ -4,13 +4,32 @@
     <tr>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api?username=hdshare&show_icons=true&include_all_commits=true&locale=cn&hide_border=true">
+            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=hdshare&show_icons=true&include_all_commits=true">
           </picture>
         </td>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdshare&layout=compact&langs_count=12&locale=cn&hide_border=true">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=hdshare&layout=compact&langs_count=12">
           </picture>
         </td>
     </tr>
 </table>
+
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=cinit&repo=QAuxiliary&show_owner=true">
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=HdShare&repo=HdTool&show_owner=true">
+          </picture>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,androidstudio,idea,pycharm,phpstorm,vscode" />
+</p>
