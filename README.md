@@ -31,5 +31,5 @@
 </table>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,androidstudio,idea,pycharm,phpstorm,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,idea,pycharm,vscode" />
 </p>
