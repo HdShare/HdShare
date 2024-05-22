@@ -1,6 +1,6 @@
 ## Hi 👋<a href="https://github.com/HdShare/"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
 
-<table>
+<table align="center">
     <tr>
         <td align="center">
           <picture>
