@@ -32,5 +32,7 @@
 
 ### Skill
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,idea,pycharm,vscode&theme=light" />
+    <picture>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,idea,pycharm,vscode&theme=light" />
+    </picture>
 </p>
