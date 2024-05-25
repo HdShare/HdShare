@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-### 推荐
+### 推荐项目
 
 <table align="center">
     <tr>
@@ -36,7 +36,7 @@
     </tr>
 </table>
 
-### 技能
+### 技能工具
 
 <p align="center">
     <picture>
