@@ -1,4 +1,4 @@
-### Hi 👋<a href="https://github.com/HdShare/"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
+### 你好 👋<a href="https://github.com/HdShare/"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
 
 <table align="center">
     <tr>
@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-### Pin
+### 推荐
 
 <table align="center">
     <tr>
@@ -36,10 +36,10 @@
     </tr>
 </table>
 
-### Skill
+### 技能
 
 <p align="center">
     <picture>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,idea,pycharm,vscode&theme=light" />
+        <img src="https://skillicons.dev/icons?i=java,kotlin,py,php,vue,js,lua,androidstudio,idea,pycharm,phpstorm,vscode&theme=light" />
     </picture>
 </p>
