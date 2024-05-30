@@ -40,6 +40,6 @@
 
 <p align="center">
     <picture>
-        <img src="https://skillicons.dev/icons?i=java,kotlin,py,php,vue,js,lua,androidstudio,idea,pycharm,phpstorm,vscode&theme=light" />
+        <img src="https://skillicons.dev/icons?i=java,kotlin,py,lua,androidstudio,idea,pycharm,vscode&theme=light" />
     </picture>
 </p>
