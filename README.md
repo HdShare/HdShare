@@ -1,4 +1,4 @@
-### 你好 👋<a href="https://github.com/HdShare/"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
+### 你好 👋<a href="https://github.com/HdShare/"><img align="right" src="http://profile-counter.glitch.me/HdShare/count.svg"></a>
 
 <table align="center">
     <tr>
