@@ -28,8 +28,8 @@
         </td>
         <td align="center">
           <picture>
-            <a href="https://github.com/cinit/QAuxiliary">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=cinit&repo=QAuxiliary&show_owner=true">
+            <a href="https://github.com/HdShare/HookGG">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?hide_border=true&username=HdShare&repo=HookGG&show_owner=true">
             </a>
           </picture>
         </td>
