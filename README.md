@@ -4,18 +4,19 @@
     <tr>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api?hide_border=true&locale=cn&username=hdshare&show_icons=true&include_all_commits=true">
+            <img src="./profile/stats.svg">
           </picture>
         </td>
         <td align="center">
           <picture>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&locale=cn&username=hdshare&layout=compact&langs_count=12">
+            <img src="./profile/top-langs.svg">
           </picture>
         </td>
     </tr>
 </table>
 
 ### 奖杯 🏆
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hdshare&theme=light&row=1&column=7&margin-w=15"/>
+  <img src="./profile/trophy.svg"/>
 </div>
