@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="157.73"
+          width="157.74"
           height="8"
           fill="#A97BFF"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="157.73"
+          x="157.74"
           y="0"
-          width="86.58"
+          width="86.57"
           height="8"
           fill="#b07219"
         />
@@ -171,7 +171,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 63.09%
+        Kotlin 63.10%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
